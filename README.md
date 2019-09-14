@@ -8,9 +8,11 @@ Zachary Fouts is a Senior Site Reliability Engineer at Arm Treasure Data.
 ***
 
 ## About 
+  - Practitioner of DevOps & SRE.
   - BBQ connoisseur.
   - Furniture maker.
   - Duck farmer.
+  - Published Photographer.
  
 ## Hobbies
 ### Technical
