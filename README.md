@@ -13,7 +13,7 @@ _“I wasn't born in Texas, but I got here as fast as I could.”_
   - Practitioner of DevOps & SRE.
   - BBQ connoisseur.
   - Furniture maker.
-  - Duck farmer.
+  - [Chicken|Duck|Rabbit] farmer.
   - Published Photographer.
  
 ## Hobbies
@@ -25,7 +25,7 @@ _“I wasn't born in Texas, but I got here as fast as I could.”_
   - In 2016 we Traveled the state of Texas in search of the best BBQ. 
      - We visited around ~80 family run and chain BBQ resturants, food trucks, and popups. Shout out to Evie Maes and Brett's Backyard Barbecue! 
   - Huge fan of woodworking, the downside is I have a 1400 square foot shop full of half finished projects that never seem to get completed!
-  - I own a small hobby duck farm, currently house 13 ducks with plans to hatch more! (ps: ducks eggs are delicious)
+  - I own a small hobby farm, currently with 13 ducks, 5 chickens, and 2 rabbits with plans for more! (ps: ducks eggs are delicious)
 
 
 ***
