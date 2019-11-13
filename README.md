@@ -13,20 +13,21 @@ _“I wasn't born in Texas, but I got here as fast as I could.”_
   - Practitioner of DevOps & SRE.
   - BBQ connoisseur.
   - Furniture maker.
-  - [Chicken|Duck|Rabbit] farmer.
+  - [Chicken\|Duck\|Rabbit\Pig] farmer.
   - Published Photographer.
  
 ## Hobbies
 ### Technical
-  - Maintain **unofficial** multi-arch Salt Stack Master Docker image. (armh, aarch64, x86_64, i386)
+  - Maintain **unofficial** multi-arch Salt Stack Master Docker image. (armh, aarch64, x86_64, i386).
   - Attend conferences and participate in both speaking and answering questions to community end-users.
+  - Spend time developing software to run on and optimized for Raspberry Pi and other SBCs.
  
 ### Non-technical
   - In 2016 we Traveled the state of Texas in search of the best BBQ. 
      - We visited around ~80 family run and chain BBQ resturants, food trucks, and popups. Shout out to Evie Maes and Brett's Backyard Barbecue! 
   - Huge fan of woodworking, the downside is I have a 1400 square foot shop full of half finished projects that never seem to get completed!
-  - I own a small hobby farm, currently with 13 ducks, 5 chickens, and 2 rabbits with plans for more! (ps: ducks eggs are delicious)
-
+  - I own a small hobby farm, currently with 13 ducks, 5 chickens (and 20+ chicks), 3 guineafowl, 2 rabbits (more on the way), and 1 pig with plans for more!
+  - Volunteer where I can to help promote a sustainable society.
 
 ***
 Disclaimer: 
