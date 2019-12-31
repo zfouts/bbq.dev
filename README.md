@@ -15,7 +15,7 @@ _“I wasn't born in Texas, but I got here as fast as I could.”_
   - Furniture maker.
   - [Chicken\|Duck\|Rabbit\|Pig] farmer.
   - Published Photographer.
-  - [blog]: https://zacharyfouts.com
+  - blog: https://zacharyfouts.com
 
 ## Hobbies
 ### Technical
